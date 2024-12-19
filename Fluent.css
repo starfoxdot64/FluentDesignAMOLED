@@ -66,6 +66,7 @@
 html.theme-dark #app-mount .theme-light .root_f9a4c9 {
   --dark-bg-h: var(--dark-background-hue, 0);
   --dark-bg-s: var(--dark-background-saturation, 0%);
+  --dark-bg-l: hsl(0 0 0%);
   --bg-main: hsl(var(--dark-bg-h) var(--dark-bg-s) 13%);
   --bg-alt: hsl(var(--dark-bg-h) var(--dark-bg-s) 15%);
   --bg-content: hsl(var(--dark-bg-h) var(--dark-bg-s) 17%);
