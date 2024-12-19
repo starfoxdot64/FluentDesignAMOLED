@@ -734,7 +734,7 @@ body,
 
 #app-mount .sidebar_a4d4d9 {
   width: var(--channels-width) !important;
-  background: var(--bg-alt);
+  background: var(--bg-dark);
   border-right: 0px solid var(--border-mid);
   box-sizing: border-box;
   border-radius: var(--rounded) 0 0 0;
@@ -5379,7 +5379,7 @@ body,
   width: 748px !important;
 }
 #app-mount .guildSidebar_a74b6f {
-  background: var(--bg-alt);
+  background: var(--bg-dark);
   border-right: 0px solid var(--border-high);
 }
 #app-mount .modal_a74b6f {
