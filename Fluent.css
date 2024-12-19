@@ -69,7 +69,7 @@ html.theme-dark #app-mount .theme-light .root_f9a4c9 {
   --bg-main: black;
   --bg-alt: black;
   --bg-content: black;
-  --bg-content-alt: black;
+  --bg-content-alt: hsl(var(--dark-bg-h) var(--dark-bg-s) 0%);
   --bg-transparent: hsl(var(--dark-bg-h) var(--dark-bg-s) 40% / 0.25);
   --bg-transparent-hover: hsl(var(--dark-bg-h) var(--dark-bg-s) 40% / 0.35);
   --bg-transparent-active: hsl(var(--dark-bg-h) var(--dark-bg-s) 40% / 0.4);
