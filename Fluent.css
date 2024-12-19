@@ -73,8 +73,8 @@ html.theme-dark #app-mount .theme-light .root_f9a4c9 {
   --bg-transparent: hsl(var(--dark-bg-h) var(--dark-bg-s) 40% / 0.25);
   --bg-transparent-hover: hsl(var(--dark-bg-h) var(--dark-bg-s) 40% / 0.35);
   --bg-transparent-active: hsl(var(--dark-bg-h) var(--dark-bg-s) 40% / 0.4);
-  --bg-interactive: hsl(var(--dark-bg-h) var(--dark-bg-s) 5%);
-  --bg-interactive-high: hsl(var(--dark-bg-h) var(--dark-bg-s) 20%);
+  --bg-interactive: #000000;
+  --bg-interactive-high: hsl(var(--dark-bg-h) var(--dark-bg-s) 0%);
   --bg-interactive-hover: hsl(var(--dark-bg-h) var(--dark-bg-s) 16%);
   --bg-interactive-high-hover: hsl(var(--dark-bg-h) var(--dark-bg-s) 18%);
   --bg-high: hsl(var(--dark-bg-h) var(--dark-bg-s) 10%);
@@ -98,7 +98,7 @@ html.theme-dark #app-mount .theme-light .root_f9a4c9 {
   --btn-border-b: hsl(var(--dark-bg-h) var(--dark-bg-s) 0%);
   --btn-border-active: hsl(var(--dark-bg-h) var(--dark-bg-s) 0%);
   --scrollbar-background: hsl(var(--dark-bg-h) var(--dark-bg-s) 50%);
-  --server-bg: hsl(var(--dark-bg-h) var(--dark-bg-s) 50% / 0.2);
+  --server-bg: hsl(var(--dark-bg-h) var(--dark-bg-s) 0%;
   --folder-bg: var(--server-bg);
   --textbox-bg: hsl(var(--dark-bg-h) var(--dark-bg-s) 18%);
   --textbox-bg-high: hsl(var(--dark-bg-h) var(--dark-bg-s) 20%);
