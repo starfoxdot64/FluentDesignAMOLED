@@ -66,14 +66,14 @@
 html.theme-dark #app-mount .theme-light .root_f9a4c9 {
   --dark-bg-h: var(--dark-background-hue, 0%);
   --dark-bg-s: var(--dark-background-saturation, 0%);
-  --bg-main: #000000;
-  --bg-alt: #000000;
-  --bg-content: #000000;
-  --bg-content-alt: #000000;
+  --bg-main: black;
+  --bg-alt: black;
+  --bg-content: black;
+  --bg-content-alt: black;
   --bg-transparent: hsl(var(--dark-bg-h) var(--dark-bg-s) 40% / 0.25);
   --bg-transparent-hover: hsl(var(--dark-bg-h) var(--dark-bg-s) 40% / 0.35);
   --bg-transparent-active: hsl(var(--dark-bg-h) var(--dark-bg-s) 40% / 0.4);
-  --bg-interactive: #000000;
+  --bg-interactive: black;
   --bg-interactive-high: hsl(var(--dark-bg-h) var(--dark-bg-s) 0%);
   --bg-interactive-hover: hsl(var(--dark-bg-h) var(--dark-bg-s) 16%);
   --bg-interactive-high-hover: hsl(var(--dark-bg-h) var(--dark-bg-s) 18%);
@@ -85,9 +85,9 @@ html.theme-dark #app-mount .theme-light .root_f9a4c9 {
   --bg-menu-item-hover: hsl(var(--dark-bg-h) var(--dark-bg-s) 20%);
   --chat-bubble-bg: hsl(var(--dark-bg-h) var(--dark-bg-s) 18%);
   --chat-mention-bubble: hsl(var(--dark-bg-h) var(--dark-bg-s) 100% / 0.05);
-  --border: #000000;
-  --border-mid: #000000;
-  --border-high: #000000;
+  --border: black;
+  --border-mid: black;
+  --border-high: black;
   --pill-unread: hsl(var(--dark-bg-h) var(--dark-bg-s) 60%);
   --pill-hovered: #fff;
   --btn-bg: hsl(var(--dark-bg-h) var(--dark-bg-s) 40% / 0.2);
