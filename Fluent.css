@@ -64,23 +64,23 @@
 
 .theme-dark,
 html.theme-dark #app-mount .theme-light .root_f9a4c9 {
-  --dark-bg-h: var(--dark-background-hue, 0);
+  --dark-bg-h: var(--dark-background-hue, 0%);
   --dark-bg-s: var(--dark-background-saturation, 0%);
-  --bg-main: hsl(var(--dark-bg-h) var(--dark-bg-s) 0%);
+  --bg-main: #000000;
   --bg-alt: hsl(var(--dark-bg-h) var(--dark-bg-s) 5%);
   --bg-content: hsl(var(--dark-bg-h) var(--dark-bg-s) 0%);
   --bg-content-alt: hsl(var(--dark-bg-h) var(--dark-bg-s) 5%);
   --bg-transparent: hsl(var(--dark-bg-h) var(--dark-bg-s) 40% / 0.25);
   --bg-transparent-hover: hsl(var(--dark-bg-h) var(--dark-bg-s) 40% / 0.35);
   --bg-transparent-active: hsl(var(--dark-bg-h) var(--dark-bg-s) 40% / 0.4);
-  --bg-interactive: hsl(var(--dark-bg-h) var(--dark-bg-s) 18%);
+  --bg-interactive: hsl(var(--dark-bg-h) var(--dark-bg-s) 5%);
   --bg-interactive-high: hsl(var(--dark-bg-h) var(--dark-bg-s) 20%);
   --bg-interactive-hover: hsl(var(--dark-bg-h) var(--dark-bg-s) 16%);
   --bg-interactive-high-hover: hsl(var(--dark-bg-h) var(--dark-bg-s) 18%);
-  --bg-high: hsl(var(--dark-bg-h) var(--dark-bg-s) 20%);
-  --bg-higher: hsl(var(--dark-bg-h) var(--dark-bg-s) 23%);
-  --bg-highest: hsl(var(--dark-bg-h) var(--dark-bg-s) 28%);
-  --bg-menu: hsl(var(--dark-bg-h) var(--dark-bg-s) 17%);
+  --bg-high: hsl(var(--dark-bg-h) var(--dark-bg-s) 10%);
+  --bg-higher: hsl(var(--dark-bg-h) var(--dark-bg-s) 10%);
+  --bg-highest: hsl(var(--dark-bg-h) var(--dark-bg-s) 10%);
+  --bg-menu: hsl(var(--dark-bg-h) var(--dark-bg-s) 10%);
   --bg-menu-item: hsl(var(--dark-bg-h) var(--dark-bg-s) 22%);
   --bg-menu-item-hover: hsl(var(--dark-bg-h) var(--dark-bg-s) 20%);
   --chat-bubble-bg: hsl(var(--dark-bg-h) var(--dark-bg-s) 18%);
